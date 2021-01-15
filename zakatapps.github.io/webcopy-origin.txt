@@ -1,0 +1,376 @@
+Uri: http://zakattt.urest.org/
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\index.htm
+Content Type: text/html
+
+Uri: http://zakattt.urest.org/favicon.ico?v=02943405496137319
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\favicon.ico
+Content Type: image/x-icon
+
+Uri: http://zakattt.urest.org/css/devicePublish.min.css?v=2020_12_28T12_18_46_03_00_490d27167c1bb2d74a09d73d9ec02872117c8269
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\css\devicePublish.min.css
+Content Type: text/css
+
+Uri: http://zakattt.urest.org/css/lib/bootstrap.min.css?v=2020_12_28T12_18_46_03_00_490d27167c1bb2d74a09d73d9ec02872117c8269
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\css\lib\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://zakattt.urest.org/templates/cl_tourism/css/main-g-theme-site-1-desktop.css
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\templates\cl_tourism\css\main-g-theme-site-1-desktop.css
+Content Type: text/css
+
+Uri: http://zakattt.urest.org/templates/cl_tourism/css/main-g-theme-site-1-tablet.css
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\templates\cl_tourism\css\main-g-theme-site-1-tablet.css
+Content Type: text/css
+
+Uri: http://zakattt.urest.org/templates/cl_tourism/css/main-g-theme-site-1-phone.css
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\templates\cl_tourism\css\main-g-theme-site-1-phone.css
+Content Type: text/css
+
+Uri: http://zakattt.urest.org/sitecss/srcset-5ff5916d4d65981358160979-all.css?v=6
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\sitecss\srcset-5ff5916d4d65981358160979-all.css
+Content Type: text/css
+
+Uri: http://zakattt.urest.org/sitecss/typography.css?v=6
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\sitecss\typography.css
+Content Type: text/css
+
+Uri: http://zakattt.urest.org/dist-version/css/pub.v1.css?v=2020_12_28T12_18_46_03_00_490d27167c1bb2d74a09d73d9ec02872117c8269
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\dist-version\css\pub.v1.css
+Content Type: text/css
+
+Uri: http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\font-awesome\4.2.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: http://zakattt.urest.org/css/lib/fontawesome-brand.min.css
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\css\lib\fontawesome-brand.min.css
+Content Type: text/css
+
+Uri: http://zakattt.urest.org/uploads/s/b/z/4/bz45ugvzpltf/img/full_S5AChwvU.jpeg
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\uploads\s\b\z\4\bz45ugvzpltf\img\full_S5AChwvU.jpeg
+Content Type: image/jpeg
+
+Uri: http://zakattt.urest.org/uploads/s/b/z/4/bz45ugvzpltf/img/full_C7LcwrEx.jpeg
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\uploads\s\b\z\4\bz45ugvzpltf\img\full_C7LcwrEx.jpeg
+Content Type: image/jpeg
+
+Uri: https://ukit.com/ru?utm_source=ukit_new_copyright
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\ru.html
+Content Type: text/html
+
+Uri: http://zakattt.urest.org/css/require/scroll-animation.css?v=2020_12_28T12_18_46_03_00_490d27167c1bb2d74a09d73d9ec02872117c8269
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\css\require\scroll-animation.css
+Content Type: text/css
+
+Uri: http://zakattt.urest.org/js/lib/modernizr-webp.js?v=2020_12_28T12_18_46_03_00_490d27167c1bb2d74a09d73d9ec02872117c8269
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\js\lib\modernizr-webp.js
+Content Type: application/javascript
+
+Uri: http://zakattt.urest.org/js/ulib/performance.js?v=2020_12_28T12_18_46_03_00_490d27167c1bb2d74a09d73d9ec02872117c8269
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\js\ulib\performance.js
+Content Type: application/javascript
+
+Uri: http://zakattt.urest.org/js/lib/requirejs.min.js?v=2020_12_28T12_18_46_03_00_490d27167c1bb2d74a09d73d9ec02872117c8269
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\js\lib\requirejs.min.js
+Content Type: application/javascript
+
+Uri: http://zakattt.urest.org/dist-version/js/pub.v1.bundle.js?v=2020_12_28T12_18_46_03_00_490d27167c1bb2d74a09d73d9ec02872117c8269
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\dist-version\js\pub.v1.bundle.js
+Content Type: application/javascript
+
+Uri: http://zakattt.urest.org/js/lib/cssrelpreload.js?v=2020_12_28T12_18_46_03_00_490d27167c1bb2d74a09d73d9ec02872117c8269
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\js\lib\cssrelpreload.js
+Content Type: application/javascript
+
+Uri: http://zakattt.urest.org/js/ulib/critical.js?v=2020_12_28T12_18_46_03_00_490d27167c1bb2d74a09d73d9ec02872117c8269
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\js\ulib\critical.js
+Content Type: application/javascript
+
+Uri: http://zakattt.urest.org/js/ulib/scroll-animation.js?v=2020_12_28T12_18_46_03_00_490d27167c1bb2d74a09d73d9ec02872117c8269
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\js\ulib\scroll-animation.js
+Content Type: application/javascript
+
+Uri: http://zakattt.urest.org/js/ulib/calcHeaderHeight.js?v=2020_12_28T12_18_46_03_00_490d27167c1bb2d74a09d73d9ec02872117c8269
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\js\ulib\calcHeaderHeight.js
+Content Type: application/javascript
+
+Uri: http://zakattt.urest.org/js/ulib/backgroundBlockColor.js?v=2020_12_28T12_18_46_03_00_490d27167c1bb2d74a09d73d9ec02872117c8269
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\js\ulib\backgroundBlockColor.js
+Content Type: application/javascript
+
+Uri: http://zakattt.urest.org/js/ulib/headerFooter.js?v=2020_12_28T12_18_46_03_00_490d27167c1bb2d74a09d73d9ec02872117c8269
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\js\ulib\headerFooter.js
+Content Type: application/javascript
+
+Uri: http://zakattt.urest.org/js/ulib/parallax.js?v=2020_12_28T12_18_46_03_00_490d27167c1bb2d74a09d73d9ec02872117c8269
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\js\ulib\parallax.js
+Content Type: application/javascript
+
+Uri: http://fonts.googleapis.com/css?family=PT+Sans+Caption:400,700&subset=latin,cyrillic
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\css.css
+Content Type: text/css
+
+Uri: http://zakattt.urest.org/templates/cl_tourism/font/brandico.eot?26238069
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\templates\cl_tourism\font\brandico.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://zakattt.urest.org/templates/cl_tourism/font/brandico.woff?26238069
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\templates\cl_tourism\font\brandico.woff
+Content Type: application/font-woff
+
+Uri: http://zakattt.urest.org/templates/cl_tourism/font/brandico.ttf?26238069
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\templates\cl_tourism\font\brandico.ttf
+Content Type: application/octet-stream
+
+Uri: http://zakattt.urest.org/templates/cl_tourism/font/brandico.svg?26238069
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\templates\cl_tourism\font\brandico.svg
+Content Type: image/svg+xml
+
+Uri: http://zakattt.urest.org/templates/cl_tourism/fonts/fontawesome/fontawesome-webfont.eot
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\templates\cl_tourism\fonts\fontawesome\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://zakattt.urest.org/templates/cl_tourism/fonts/fontawesome/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\templates\cl_tourism\fonts\fontawesome\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://zakattt.urest.org/templates/cl_tourism/fonts/fontawesome/fontawesome-webfont.woff
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\templates\cl_tourism\fonts\fontawesome\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: http://zakattt.urest.org/templates/cl_tourism/fonts/fontawesome/fontawesome-webfont.ttf
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\templates\cl_tourism\fonts\fontawesome\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: http://zakattt.urest.org/fonts/ukit-published/ukit-published.eot?1586855985
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\fonts\ukit-published\ukit-published.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://zakattt.urest.org/fonts/ukit-published/ukit-published.woff2?1586855985
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\fonts\ukit-published\ukit-published.woff2
+Content Type: application/octet-stream
+
+Uri: http://zakattt.urest.org/fonts/ukit-published/ukit-published.woff?1586855985
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\fonts\ukit-published\ukit-published.woff
+Content Type: application/font-woff
+
+Uri: http://zakattt.urest.org/fonts/ukit-published/ukit-published.ttf?1586855985
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\fonts\ukit-published\ukit-published.ttf
+Content Type: application/octet-stream
+
+Uri: http://zakattt.urest.org/fonts/ukit-published/ukit-published.svg?1586855985
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\fonts\ukit-published\ukit-published.svg
+Content Type: image/svg+xml
+
+Uri: http://zakattt.urest.org/img/loader.svg
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\img\loader.svg
+Content Type: image/svg+xml
+
+Uri: http://zakattt.urest.org/img/loader_dark.gif
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\img\loader_dark.gif
+Content Type: image/gif
+
+Uri: http://zakattt.urest.org/img/loader_light.gif
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\img\loader_light.gif
+Content Type: image/gif
+
+Uri: http://zakattt.urest.org/img/red_arrow.png
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\img\red_arrow.png
+Content Type: image/png
+
+Uri: http://zakattt.urest.org/img/icons/widget-imageplaceholder.svg
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\img\icons\widget-imageplaceholder.svg
+Content Type: image/svg+xml
+
+Uri: http://zakattt.urest.org/img/constructor/map-placeholder-screenshot-yandex.jpg
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\img\constructor\map-placeholder-screenshot-yandex.jpg
+Content Type: image/jpeg
+
+Uri: http://zakattt.urest.org/img/constructor/map-placeholder-screenshot-google.jpg
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\img\constructor\map-placeholder-screenshot-google.jpg
+Content Type: image/jpeg
+
+Uri: http://zakattt.urest.org/img/upbutton.svg
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\img\upbutton.svg
+Content Type: image/svg+xml
+
+Uri: http://zakattt.urest.org/img/ukit-copyright-dark.svg
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\img\ukit-copyright-dark.svg
+Content Type: image/svg+xml
+
+Uri: http://zakattt.urest.org/img/ukit-copyright-light.svg
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\img\ukit-copyright-light.svg
+Content Type: image/svg+xml
+
+Uri: http://zakattt.urest.org/img/avatar_placeholder.svg
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\img\avatar_placeholder.svg
+Content Type: image/svg+xml
+
+Uri: http://zakattt.urest.org/widgets/feedBack/img/recaptcha.png
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\widgets\feedBack\img\recaptcha.png
+Content Type: image/png
+
+Uri: http://zakattt.urest.org/img/loading.gif
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\img\loading.gif
+Content Type: image/gif
+
+Uri: http://zakattt.urest.org/templates/cl_tourism/img/arrows.png
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\templates\cl_tourism\img\arrows.png
+Content Type: image/png
+
+Uri: http://zakattt.urest.org/widgets/backCall/img/icon/phone.svg
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\widgets\backCall\img\icon\phone.svg
+Content Type: image/svg+xml
+
+Uri: http://zakattt.urest.org/widgets/pinterest/img/ico.png
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\widgets\pinterest\img\ico.png
+Content Type: image/png
+
+Uri: http://zakattt.urest.org/widgets/weather/fonts/artill_clean_icons-webfont.eot
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\widgets\weather\fonts\artill_clean_icons-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://zakattt.urest.org/widgets/weather/fonts/artill_clean_icons-webfont.eot?
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\widgets\weather\fonts\artill_clean_icons-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://zakattt.urest.org/widgets/weather/fonts/artill_clean_icons-webfont.woff
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\widgets\weather\fonts\artill_clean_icons-webfont.woff
+Content Type: application/font-woff
+
+Uri: http://zakattt.urest.org/widgets/weather/fonts/artill_clean_icons-webfont.ttf
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\widgets\weather\fonts\artill_clean_icons-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: http://zakattt.urest.org/widgets/weather/fonts/artill_clean_icons-webfont.svg
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\widgets\weather\fonts\artill_clean_icons-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://zakattt.urest.org/widgets/cart/fonts/cart.eot?3v9alv
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\widgets\cart\fonts\cart.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://zakattt.urest.org/widgets/cart/fonts/cart.ttf?3v9alv
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\widgets\cart\fonts\cart.ttf
+Content Type: application/octet-stream
+
+Uri: http://zakattt.urest.org/widgets/cart/fonts/cart.woff?3v9alv
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\widgets\cart\fonts\cart.woff
+Content Type: application/font-woff
+
+Uri: http://zakattt.urest.org/widgets/cart/fonts/cart.svg?3v9alv
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\widgets\cart\fonts\cart.svg
+Content Type: image/svg+xml
+
+Uri: http://zakattt.urest.org/widgets/gallery/img/prev.png
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\widgets\gallery\img\prev.png
+Content Type: image/png
+
+Uri: http://zakattt.urest.org/widgets/gallery/img/next.png
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\widgets\gallery\img\next.png
+Content Type: image/png
+
+Uri: http://zakattt.urest.org/__scale/uploads/s/b/z/4/bz45ugvzpltf/img/full_XSL6IebE.png?quality=60&width=360
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\__scale\uploads\s\b\z\4\bz45ugvzpltf\img\full_XSL6IebE.png
+Content Type: image/png
+
+Uri: http://zakattt.urest.org/__scale/uploads/s/b/z/4/bz45ugvzpltf/img/full_XSL6IebE.png?quality=60&width=480
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\__scale\uploads\s\b\z\4\bz45ugvzpltf\img\full_XSL6IebE-1.png
+Content Type: image/png
+
+Uri: http://zakattt.urest.org/__scale/uploads/s/b/z/4/bz45ugvzpltf/img/full_XSL6IebE.png?quality=60&width=576
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\__scale\uploads\s\b\z\4\bz45ugvzpltf\img\full_XSL6IebE-2.png
+Content Type: image/png
+
+Uri: http://zakattt.urest.org/__scale/uploads/s/b/z/4/bz45ugvzpltf/img/full_XSL6IebE.png?quality=60&width=768
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\__scale\uploads\s\b\z\4\bz45ugvzpltf\img\full_XSL6IebE-3.png
+Content Type: image/png
+
+Uri: http://zakattt.urest.org/__scale/uploads/s/b/z/4/bz45ugvzpltf/img/full_XSL6IebE.png?quality=60&width=992
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\__scale\uploads\s\b\z\4\bz45ugvzpltf\img\full_XSL6IebE-4.png
+Content Type: image/png
+
+Uri: http://zakattt.urest.org/__scale/uploads/s/b/z/4/bz45ugvzpltf/img/full_XSL6IebE.png?quality=60&width=1170
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\__scale\uploads\s\b\z\4\bz45ugvzpltf\img\full_XSL6IebE-5.png
+Content Type: image/png
+
+Uri: http://zakattt.urest.org/__scale/uploads/s/b/z/4/bz45ugvzpltf/img/full_XSL6IebE.png?quality=60&width=1366
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\__scale\uploads\s\b\z\4\bz45ugvzpltf\img\full_XSL6IebE-6.png
+Content Type: image/png
+
+Uri: http://zakattt.urest.org/__scale/uploads/s/b/z/4/bz45ugvzpltf/img/full_XSL6IebE.png?quality=60&width=1170&webp=1
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\__scale\uploads\s\b\z\4\bz45ugvzpltf\img\full_XSL6IebE.png.webp
+Content Type: image/webp
+
+Uri: http://zakattt.urest.org/__scale/uploads/s/b/z/4/bz45ugvzpltf/img/full_XSL6IebE.png?quality=60&width=1366&webp=1
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\__scale\uploads\s\b\z\4\bz45ugvzpltf\img\full_XSL6IebE.png-1.webp
+Content Type: image/webp
+
+Uri: http://zakattt.urest.org/__scale/uploads/s/b/z/4/bz45ugvzpltf/img/full_XSL6IebE.png?quality=60&width=1500&webp=1
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\__scale\uploads\s\b\z\4\bz45ugvzpltf\img\full_XSL6IebE.png-2.webp
+Content Type: image/webp
+
+Uri: http://zakattt.urest.org/__scale/uploads/s/b/z/4/bz45ugvzpltf/img/full_Y2CF8p3v.jpg?quality=60&width=360&webp=1
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\__scale\uploads\s\b\z\4\bz45ugvzpltf\img\full_Y2CF8p3v.jpg.webp
+Content Type: image/webp
+
+Uri: http://zakattt.urest.org/__scale/uploads/s/b/z/4/bz45ugvzpltf/img/full_Y2CF8p3v.jpg?quality=60&width=480&webp=1
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\__scale\uploads\s\b\z\4\bz45ugvzpltf\img\full_Y2CF8p3v.jpg-1.webp
+Content Type: image/webp
+
+Uri: http://zakattt.urest.org/__scale/uploads/s/b/z/4/bz45ugvzpltf/img/full_Y2CF8p3v.jpg?quality=60&width=960&webp=1
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\__scale\uploads\s\b\z\4\bz45ugvzpltf\img\full_Y2CF8p3v.jpg-2.webp
+Content Type: image/webp
+
+Uri: https://fonts.googleapis.com/css?family=Rubik:700,700i,400,400i&subset=cyrillic
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\css-1.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Fira+Sans:700,700i,400,400i&subset=cyrillic
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\css-2.css
+Content Type: text/css
+
+Uri: http://zakattt.urest.org/fonts/fabrands/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\fonts\fabrands\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://zakattt.urest.org/fonts/fabrands/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\fonts\fabrands\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://zakattt.urest.org/fonts/fabrands/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\fonts\fabrands\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: http://zakattt.urest.org/fonts/fabrands/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\fonts\fabrands\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: http://zakattt.urest.org/fonts/fabrands/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\fonts\fabrands\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: http://zakattt.urest.org/fonts/fabrands/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\fonts\fabrands\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://api.whatsapp.com/
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\index-1.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/ongar.dev/
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\ongar.dev\index.htm
+Content Type: text/html
+
+Uri: https://api.whatsapp.com/send/?phone=77719055573&text&app_absent=0
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\send\index.htm
+Content Type: text/html
+
+Uri: http://zakattt.urest.org/uploads/s/b/z/4/bz45ugvzpltf/img/full_XSL6IebE.png
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\uploads\s\b\z\4\bz45ugvzpltf\img\full_XSL6IebE.png
+Content Type: image/png
+
+Uri: http://zakattt.urest.org/uploads/s/b/z/4/bz45ugvzpltf/img/full_Y2CF8p3v.jpg
+File Name: C:\Downloaded Web Sites\zakattt.urest.org\uploads\s\b\z\4\bz45ugvzpltf\img\full_Y2CF8p3v.jpg
+Content Type: image/jpeg
+
